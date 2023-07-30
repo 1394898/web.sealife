@@ -1,0 +1,77 @@
+*{
+	margin:0xp;
+	padding:0xp;
+}
+div#cuadro{
+ width:400px;
+ height:400px;
+ background-color:#111f9d;
+ margin:auto;
+ position: absolute;
+ top: 1610%;
+ left: 65%;
+}
+div#final{
+ width:960px;
+ height:500;
+ background-color:rgb(252 185 0);
+ margin:auto;
+ position: absolute;
+ top: 1690%;
+ left: 17%;
+}
+div#fotos{
+ width:400px;
+ height:700px;
+ background-color:#111f9d;
+ margin:auto;
+ position: absolute;
+ top: 230%;
+ left: 65%;
+}
+div#peztropical{
+ width:350px;
+ height:350px;
+ background-color:#fcb900;
+ margin:auto;
+ position: absolute;
+ top: 1%;
+ left: 0%;
+}
+div#tiburon{
+ width:350px;
+ height:350px;
+ background-color:#fcb900;
+ margin:auto;
+ position: absolute;
+ top: 50%;
+ left: 0%;
+}
+div#acuarios{
+	 width:400px;
+ height:920px;
+ background-color:#111f9d;
+ margin:auto;
+ position: absolute;
+top: 1217%;
+ left: 65%;
+}
+
+div#genova{
+ width:350px;
+ height:350px;
+ background-color:#fcb900;
+ margin:auto;
+ position: absolute;
+ top: 1218%;
+ left: 66%;
+}
+div#valencia{
+ width:350px;
+ height:350px;
+ background-color:#fcb900;
+ margin:auto;
+ position: absolute;
+ top: 1292%;
+ left: 66%;
+}
